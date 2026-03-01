@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains work undertaken the National Initiative on Undergraduate Science (NIUS), HBCSE–TIFR.
+This repository contains work undertaken under the National Initiative on Undergraduate Science (NIUS), HBCSE–TIFR.
 
 ## Scope of Work
 
